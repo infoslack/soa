@@ -9,7 +9,7 @@ import javax.jws.WebService;
 import br.com.webservice.soa.infra.Hello;
 import br.com.webservice.soa.modelo.User;
 
-@WebService(endpointInterface = "ws.hello.Hello")
+@WebService(endpointInterface = "br.com.webservice.soa.infra.Hello")
 public class HelloImpl implements Hello {
     
     public String sayHello() {

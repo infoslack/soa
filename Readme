@@ -1,0 +1,2 @@
+Para executar o exemplo rode primeiro o servidor que esta em : br.com.webservice.soa.server Publicar.java
+Em seguida o Cliente para consumir o webservice que fica em : br.com.webservice.soa.client.wsdl HelloClient.java
